@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap",
+  "repo": "buritica/bootstrap",
+  "description": "bootstrap.js",
+  "version": "2.3.2",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "1.9.1"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "bootstrap.css",
+    "bootstrap-responsive.css"
+  ],
+  "images": [
+    "images/glyphicons-halflings-white.png",
+    "images/glyphicons-halflings.png"
+  ]
+}
